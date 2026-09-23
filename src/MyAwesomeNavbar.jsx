@@ -53,6 +53,9 @@ function MainContent(){
         <h1>React is great!</h1>
     )
 }
+function rendering(){
+    
+}
 
 root.render(
     <div>
