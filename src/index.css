@@ -25,3 +25,12 @@
   font-family: Arial,sans-serif;
   color: black;
  } */
+.student{
+  font-family: Arial, sans-serif;
+  font-size:1em;
+  padding:10px;
+  border:2px solid brown;
+}
+.student p{
+  margin:0;
+}
