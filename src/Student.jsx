@@ -4,7 +4,9 @@
 // defaultprops:defaultvalues for props in case they 
 // are not passed from the parent component
 
-import PropTypes from 'prop-types'
+// conditional rendering:allows you to control what gets 
+// rendered in your application based on certain conditions(show,hideor change components)
+
 function Student(props){
     return(
         <div className="student">
